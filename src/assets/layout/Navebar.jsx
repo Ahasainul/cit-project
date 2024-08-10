@@ -15,11 +15,11 @@ const Navebar = () => {
               <h2 className="text-xl font-bold font-intel cursor-pointer"> Ahasainul</h2>
             </div>
             <div className="flex">
-              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300"} Manuname={'Home'} />
-              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300"} Manuname={'Projects'} />
-              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300"} Manuname={'Pages'} />
-              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300"} Manuname={'Blog'} />
-              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300"} Manuname={'Contact'} />
+              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300 cursor-pointer "} Manuname={'Home'} />
+              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300 cursor-pointer "} Manuname={'Projects'} />
+              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300 cursor-pointer "} Manuname={'Pages'} />
+              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300 cursor-pointer "} Manuname={'Blog'} />
+              <List className={"px-10 text-lg font-intel font-semibold text-hadTextColour hover:text-btnColour transition-all duration-300 cursor-pointer "} Manuname={'Contact'} />
             </div>
             <div className="flex gap-5 items-center ">
                 <FaSearch className="text-lg text-hadTextColour"/>

@@ -15,7 +15,7 @@ const Hero = () => {
                   Front-End Developer
                 </h3>
                 <h1 className="font-bold text-[120px] text-hadTextColour font-vol ">
-                  Steven Product{" "}
+                  Steven Product
                 </h1>
                 <h1 className=" leading-[50px] one text-[120px] text-navColour font-vol flex  pb-[35px]">
                   Portfolio

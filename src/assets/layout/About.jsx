@@ -7,7 +7,7 @@ const About = () => {
     <>
       <div className=" bg-bgColour bg-opacity-[80%] ">
         <Container>
-          <div className="  flex  pt-[133px] pb-[250px]">
+          <div className="  flex  pt-[133px] pb-[200px]">
             <div className="w-[60%]  ">
               <h3 className="text-pColour text-[18px] font-medium font-vol">
                 About me
